@@ -1,18 +1,6 @@
 [
     {
         "osName": "Android",
-        "name": "Hiddify",
-        "descriptionFa": "این برنامه قابلیت اتصال خودکار به بهترین پروکسی را دارد.",
-        "descriptionEn": "This app will automatically choose the best proxy for you.",
-        "logo": "https://iili.io/27zFlFj.png",
-        "pricing": 0,
-        "currency": "",
-        "downloadLink": "https://github.com/hiddify/HiddifyNG/releases/latest",
-        "deepLink": "hiddify://import/{url}#{name}",
-        "tutorialLink": ""
-    },
-    {
-        "osName": "Android",
         "name": "v2rayNG",
         "descriptionFa": "پس از دانلود و نصب برنامه برای اضافه کردن پروکسی‌ها داخل برنامه بصورت خودکار روی دکمه زیر کلیک کنید.",
         "descriptionEn": "Once you've downloaded and installed the application, to automatically add proxies in the app, click on the button below.",
@@ -21,6 +9,18 @@
         "currency": "",
         "downloadLink": "https://github.com/2dust/v2rayNG/releases/latest",
         "deepLink": "v2rayng://install-config?url={url}",
+        "tutorialLink": ""
+    },
+    {
+        "osName": "Android",
+        "name": "Hiddify",
+        "descriptionFa": "این برنامه قابلیت اتصال خودکار به بهترین پروکسی را دارد.",
+        "descriptionEn": "This app will automatically choose the best proxy for you.",
+        "logo": "https://iili.io/27zFlFj.png",
+        "pricing": 0,
+        "currency": "",
+        "downloadLink": "https://github.com/hiddify/HiddifyNG/releases/latest",
+        "deepLink": "hiddify://import/{url}#{name}",
         "tutorialLink": ""
     },
     {
